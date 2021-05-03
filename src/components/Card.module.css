@@ -1,0 +1,16 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.album {
+    display: flex;
+    flex-direction: row;
+}
+
+.description {
+    color: crimson;
+}
+
